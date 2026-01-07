@@ -43,4 +43,4 @@ phishing-analysis/
         ├── REACTIVATE.eml
         └── ...
 
-### 🔎 [Click here to view the detailed Technical Analysis (analysis.md)](./analysis.md)
+## 🔎 [Click here to view the detailed Technical Analysis (analysis.md)](./analysis.md)
