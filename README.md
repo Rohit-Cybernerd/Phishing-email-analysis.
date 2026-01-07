@@ -42,3 +42,5 @@ phishing-analysis/
     └── case-2/             # Account Reactivation Email
         ├── REACTIVATE.eml
         └── ...
+
+### 🔎 [Click here to view the detailed Technical Analysis (analysis.md)](./analysis.md)
